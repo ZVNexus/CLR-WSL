@@ -1,10 +1,10 @@
-# ClearWSL
+# CLR-WSL
 Clear Linux on WSL (Windows 10 x64 v2004 or later)
 based on [wsldl](https://github.com/yuk7/wsldl).
 
 ![screenshot](https://raw.githubusercontent.com/wiki/yuk7/wsldl/img/Cent_Arch_Alpine.png)
-[![Build Status](https://img.shields.io/travis/com/wight554/ClearWSL.svg?style=flat-square)](https://travis-ci.com/ZVNexus/ClearWSL)
-[![Github All Releases](https://img.shields.io/github/downloads/wight554/ClearWSL/total.svg?style=flat-square)](https://github.com/ZVNexus/ClearWSL/releases/latest)
+[![Build Status](https://img.shields.io/travis/com/wight554/ClearWSL.svg?style=flat-square)](https://travis-ci.com/ZVNexus/CLR-WSL)
+[![Github All Releases](https://img.shields.io/github/downloads/wight554/ClearWSL/total.svg?style=flat-square)](https://github.com/ZVNexus/CLR-WSL/releases/latest)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![License](https://img.shields.io/github/license/wight554/ClearWSL.svg?style=flat-square)
 
@@ -15,7 +15,7 @@ based on [wsldl](https://github.com/yuk7/wsldl).
 * Windows Subsystem for Linux feature is enabled.
 
 ## Install
-#### 1. [Download](https://github.com/wight554/ClearWSL/releases/latest) installer archive.
+#### 1. [Download](https://github.com/ZVNexus/CLR-WSL/releases/latest) installer archive.
 
 #### 2. Extract all files in archive to same directory.
 

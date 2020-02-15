@@ -33,11 +33,10 @@ notifications:
   email: false
 deploy:
   provider: releases
-  api_key:
-    secure: 0V4OswSYOn9bpxKMRJN0oxU4yTvkr6YHiJ/69HYl9pay3Z3onBdl5pQWfa/HyQgVpS/uCPK+DfoIMmc2oBa9nRqz0L6wCnlsvTutryKGf6M5fbsq/YiCAvAX3ItNQ2lb1oUwc7QDkXspGfLT9VqXbgGQoETSfq9yMuTHnDXuAP14/T+GojFkylFNDHvUCAh8j/s4oAqiP+4IMFe8YNOMSGJ42ms5EazFATtbqYaf+7lF3DrCL32yKY7gQkadvnKMMcACqO16v/50iujc5n7xIiJ90uqVgUJcRTNvVPwUIF9DQCqKhBb2go/d/5aqbP/+RmVAjlbUPr4O3t0QmuBNIG76GFinsp5J2wxtWDkPPAQZIXyJmVosgviPj0i40Z5M5U31+ael+3Bya0ew/Xn7YMOfkiH3NMDYxFOp3mzy2TM2KfXyOiETssd5DOdB8QnVEgTe6mhIYTJtbKiHgjmp9jQQ/5eHXGkMmIt82Ca/b0UTEtW5atvQ8Wzl2MHwzqaxnt4ORjVnuO9E/QxNNJsxaf6f9ytgHbY2HXVtaPjFzemAI7/LeWYKkkEdZvg+Mx5XzNlIiAkJipBPwxwA2VsJ9OwnPkka+1edqWLU6bD8tADq3bXJLol78F8ZcAK2pme/J/Xfuj9zD+qXfikARP1OfO9tfoIZ5ltM/vBzOgzEEmE=
+  api_key: T1qs2k8TMNrO45kpXkO0xg
   file: out/Clear.zip
   on:
-    repo: wight554/ClearWSL
+    repo: ZVNexus/CLR-WSL
     tags: true
     all_branches: true
   skip_cleanup: true
